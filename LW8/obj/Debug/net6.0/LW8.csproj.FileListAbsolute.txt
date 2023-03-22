@@ -1,0 +1,15 @@
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\bin\Debug\net6.0\LW8.exe
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\bin\Debug\net6.0\LW8.deps.json
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\bin\Debug\net6.0\LW8.runtimeconfig.json
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\bin\Debug\net6.0\LW8.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\bin\Debug\net6.0\LW8.pdb
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.csproj.AssemblyReference.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.GeneratedMSBuildEditorConfig.editorconfig
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.AssemblyInfoInputs.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.AssemblyInfo.cs
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.csproj.CoreCompileInputs.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\refint\LW8.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.pdb
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\LW8.genruntimeconfig.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW8\obj\Debug\net6.0\ref\LW8.dll
