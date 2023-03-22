@@ -1,0 +1,15 @@
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\bin\Debug\net6.0\LW9.exe
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\bin\Debug\net6.0\LW9.deps.json
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\bin\Debug\net6.0\LW9.runtimeconfig.json
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\bin\Debug\net6.0\LW9.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\bin\Debug\net6.0\LW9.pdb
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.csproj.AssemblyReference.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.GeneratedMSBuildEditorConfig.editorconfig
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.AssemblyInfoInputs.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.AssemblyInfo.cs
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.csproj.CoreCompileInputs.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\refint\LW9.dll
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.pdb
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\LW9.genruntimeconfig.cache
+D:\СКФУ\4 КУРС\8 семестр\C#\Проекты\LW9\obj\Debug\net6.0\ref\LW9.dll
